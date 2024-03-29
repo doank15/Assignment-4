@@ -10,19 +10,19 @@ const Education = () => {
     const certificates = [
         {
             id: 1,
-            image: "src/assets/diploma-asincronismo-js 1.webp",
+            image: "/assets/diploma-asincronismo-js 1.webp",
         },
         {
             id: 2,
-            image: "src/assets/diploma-ecmascript-6 1.webp",
+            image: "/assets/diploma-ecmascript-6 1.webp",
         },
         {
             id: 3,
-            image: "src/assets/diploma-backend 1.webp",
+            image: "/assets/diploma-backend 1.webp",
         },
         {
             id: 4,
-            image: "src/assets/diploma-frontend-academlo 1.webp",
+            image: "/assets/diploma-frontend-academlo 1.webp",
         }
     ]
     const settings = {
